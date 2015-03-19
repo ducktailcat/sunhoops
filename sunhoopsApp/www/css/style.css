@@ -1,0 +1,31 @@
+#sunhhoops-view {
+    background-color:beige;
+}
+#logo-card{
+    background-color: beige;
+}
+#logo{
+    text-align: center;
+}
+#logo img{
+    width:50%;
+    height:50%;
+}
+.sunhoops-item a{
+    /* background-color:blue; */
+}
+.list-top{
+    background-image: url("../img/bg.png");
+    color: beige;
+}
+.list-top h1, .list-top h2, .list-top h3{
+    color: beige;
+}
+#checkin-btn{
+    margin-top:10px;
+}
+#start-time-input{
+    position:absolute;
+    width:50px;
+    z-index: -1000;
+}

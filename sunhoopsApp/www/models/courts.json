@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Uni-Platz",
+        "anzahl": 3
+    },
+    {
+        
+        "id": 2,
+        "name": "Heineken",
+        "anzahl": 5
+    },
+    {
+        
+        "id": 3,
+        "name": "Bult-Platz",
+        "anzahl": 0
+    }
+]
+
+
